@@ -52,14 +52,15 @@ This project helped me practice Python-based ETL development, web scraping, data
 Developed as a hands-on learning project during the IBM Data Engineering Professional Certificate program.
 
 
-## SQL Query Results
 
-The following screenshots show the SQL queries executed during the ETL project.
+## Project Execution Screenshots
 
-### SQL Queries — Screenshot 1
+The following screenshots document the execution and results of the ETL pipeline developed during the IBM Python Project for Data Engineering course.
 
-![SQL Query Results 1](Task_6_SQL.png)
+### SQL Query Results
 
-### SQL Queries — Screenshot 2
+The SQL queries retrieve the complete dataset, calculate the average market capitalization in GBP, and display the first five bank names.
 
-![SQL Query Results 2](Task_6_SQL1.png)
+![SQL Query Results - Part 1](Task_6_SQL.png)
+
+![SQL Query Results - Part 2](Task_6_SQL1.png)
