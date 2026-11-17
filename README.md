@@ -57,10 +57,7 @@ Developed as a hands-on learning project during the IBM Data Engineering Profess
 
 The following screenshots document the execution and results of the ETL pipeline developed during the IBM Python Project for Data Engineering course.
 
-### SQL Query Results
 
-The SQL queries retrieve the complete dataset, calculate the average market capitalization in GBP, and display the first five bank names.
+![SQL Query Results - Part 1](Task_6_SQL.jpg)
 
-![SQL Query Results - Part 1](Task_6_SQL.png)
-
-![SQL Query Results - Part 2](Task_6_SQL1.png)
+![SQL Query Results - Part 2](Task_6_SQL1.jpg)
